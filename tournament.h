@@ -1,4 +1,4 @@
-#include "predictors.hpp"
+#include "predictors.h"
 class tournament{
     public:
         tournament(){

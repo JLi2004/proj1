@@ -2,9 +2,9 @@
 #include<fstream>
 #include<sstream>
 #include<string>
-#include "predictors.hpp"  
-#include "tournament.hpp"
-#include "btb.hpp"
+#include "predictors.h"  
+#include "tournament.h"
+#include "btb.h"
 using namespace std;
 
 sbb** initalize_single_bit_obj(){
